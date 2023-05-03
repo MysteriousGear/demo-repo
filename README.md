@@ -11,3 +11,5 @@ This repo is a **demo** repo, nothing interesting to see here.
 	when I entered `git status`, I was told there's a modified file.
 
 ---
+
+Local addition #2.
